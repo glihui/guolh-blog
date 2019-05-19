@@ -1,0 +1,50 @@
+.navBox{
+  padding: 0 35px;
+}
+.websiteName{
+  float: left;
+  line-height: 48px;
+  font-size: 24px;
+  color: #fff;
+  padding: 0 15px;
+}
+.navUl{
+  float: left;
+  line-height: 48px;
+  display: contents;
+}
+.item{
+  cursor: pointer;
+  float: left;  
+  font-size: 14px;
+  padding: 0 15px;
+  color: #fff;
+}
+.itemActive{
+  background-color: #0482ba;
+}
+.itemImg{
+  width: 30px;
+  margin-right: 2px;
+}
+.loginButton{
+  float: right;
+  line-height: 48px;
+  color: #fff;
+  font-size: 16px;
+  cursor: pointer;
+}
+.userAuth{
+  float: right;
+  line-height: 48px;
+}
+.userAuth span{
+  color: #fff;
+  font-size: 16px;
+}
+.userAuth img{
+  margin-left: 10px;
+  width: 36px;
+  height: 36px;
+  border-radius: 18px;
+}
